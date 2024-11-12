@@ -6,6 +6,11 @@
 
 [20221670_QA_박재선.pdf](https://github.com/user-attachments/files/17709758/20221670_QA_.pdf)
 
+- 개발 환경  : Android Studio, Visual Studio
+- DB  : Firebase
+- 개발 언어  : Python, Kotlin
+- API : OpenAI
+
 
 ![슬라이드1](https://github.com/user-attachments/assets/007f2867-3299-45c3-8d21-33363f0e9425)
 ![슬라이드2](https://github.com/user-attachments/assets/313fa38d-2d47-46a9-a56f-b23550ab4e44)
