@@ -15,7 +15,7 @@
 ![ic](https://github.com/user-attachments/assets/b71c4175-139a-4435-84f0-265529151615)
 
 
-## PPT
+## 📌PPT
 ![슬라이드1](https://github.com/user-attachments/assets/007f2867-3299-45c3-8d21-33363f0e9425)
 ![슬라이드2](https://github.com/user-attachments/assets/313fa38d-2d47-46a9-a56f-b23550ab4e44)
 ![슬라이드3](https://github.com/user-attachments/assets/d49a6f90-4dfd-460c-b01f-248fff5a9b8d)
