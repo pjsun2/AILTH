@@ -5,5 +5,5 @@
 
 [20221670_QA_박재선.pdf](https://github.com/user-attachments/files/17709758/20221670_QA_.pdf)<br>
 
-## 📃결과값
+## 📌결과값
 ![image](https://github.com/user-attachments/assets/daee7a8e-4cf1-4ac8-832b-23eaff8e25fb)
