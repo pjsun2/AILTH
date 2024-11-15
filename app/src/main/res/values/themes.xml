@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <style name="Theme.AILTH" parent="Theme.AppCompat.Light">
+        <!-- 기본 테마 정의 -->
+    </style>
 
-    <style name="Theme.AILTH" parent="android:Theme.Material.Light.NoActionBar" />
+    <style name="Theme.AILTH.NoActionBar" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- ActionBar가 없는 테마 -->
+    </style>
 </resources>
